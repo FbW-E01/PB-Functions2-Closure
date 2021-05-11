@@ -24,7 +24,7 @@ dansRoll();
 
 * a. Where is closure used in this code? How can you tell?
 * b. Compare and contrast calling `dansRoll` the first and second time. What is always the same? What could change?
-* c. What is the lexical scope of `newRoll`? 
+* c. What is the lexical scope of `newRoll`? this might help https://stackoverflow.com/questions/1047454
 
 
 3. Write a function that would allow you to do this using a closure.
